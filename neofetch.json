@@ -1,0 +1,45 @@
+{
+  "image": "Photo.png",
+  "coloredImage": true,
+  "removeBackground": true,
+  "imageScale": 1.3,
+  "imageOffsetX": "10%",
+  "imageOffsetY": -20,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "He/Him, Ecuador, 23 years" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Kernel", "value": "Software Engineer" },
+        { "key": "IDE", "value": "VSCode" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages.Programming", "value": "{{languages}}" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Open source, self-hosting" },
+        { "key": "Hobbies.Hardware", "value": "Mechanical keyboards" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Website", "value": "keenrruy.com" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      "loc"
+    ]
+  }
+}
