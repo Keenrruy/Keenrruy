@@ -1,1 +1,1 @@
-![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Keenrruy&config=https%3A%2F%2Fraw.githubusercontent.com%2FKeenrruy%2FKeenrruy%2Fmain%2Fneofetch.json&v=2)
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=Keenrruy&config=https%3A%2F%2Fraw.githubusercontent.com%2FKeenrruy%2FKeenrruy%2Fmain%2Fneofetch.json&v=3)
