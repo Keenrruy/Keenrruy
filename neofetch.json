@@ -1,10 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/Keenrruy/Keenrruy/main/Photo.png",
   "coloredImage": true,
-  "removeBackground": true,
-  "imageScale": 1.3,
-  "imageOffsetX": "10%",
-  "imageOffsetY": -20,
   "sections": [
     {
       "title": "{{username}}@github",
