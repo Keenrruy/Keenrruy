@@ -1,7 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/Keenrruy/Keenrruy/main/Photo.png",
   "coloredImage": true,
-  "removeBackground": true,
   "sections": [
     {
       "title": "{{username}}@github",
