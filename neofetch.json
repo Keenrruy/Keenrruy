@@ -23,6 +23,13 @@
       ]
     },
     {
+      "title": "- Team Projects",
+      "fields": [
+        { "key": "Flutter AI Toolkit", "value": "sakethsangaraju/Language-Translation-Model (co-dev)" },
+        { "key": "Essential Innovations", "value": "DatboiJoseG/Essential_Innovations_LLC_problem (co-dev)" }
+      ]
+    },
+    {
       "title": "- Contact",
       "fields": [
         { "key": "Email", "value": "{{email}}" },
@@ -35,7 +42,7 @@
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      "loc"
+      { "left": { "key": "Location", "value": "{{location}}" }, "right": { "key": "Join Date", "value": "{{join_date}}" } }
     ]
   }
 }
